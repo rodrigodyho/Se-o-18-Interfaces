@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c70c0e1-534c-4183-9684-44d9f800e6dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seção-18-Interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entities/CarRental.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entities/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entities/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/services/BrazilTaxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/services/RentalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/services/TaxService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -81,21 +73,21 @@
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="645" y="220" key="#com.intellij.ide.util.MemberChooser/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586747527309" />
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1586749094524">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1586779271712">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586749094524" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1586749094524">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586779271712" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1586779271712">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586749094524" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1586749094524">
+    <state width="1637" height="272" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586779271712" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1586779271712">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586749094524" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1586749094524">
+    <state width="1637" height="272" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586779271712" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1586779271712">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586749094524" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586779271712" />
   </component>
 </project>
