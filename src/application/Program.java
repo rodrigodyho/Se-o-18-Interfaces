@@ -1,18 +1,24 @@
 package application;
 
-import devices.Printer;
-import devices.Scanner;
+import devices.*;
 
 public class Program {
 
     public static void main(String[] args) {
 
-        Printer p = new Printer("1080");
+        ConcretePrinter p = new ConcretePrinter("1080");
         p.processDoc("My Letter");
         p.print("My Letter");
 
-        Scanner s = new Scanner("2003");
+        System.out.println();
+        ConcreteScanner s = new ConcreteScanner("2003");
         s.processDoc("My Email");
         System.out.println("Scan result: " + s.scan());
+
+        System.out.println();
+        ComboDevice c = new ComboDevice("2222");
+        c.processDoc("My dissertation");
+        c.print("My dissertation");
+        System.out.println("Scan result: "+ s.scan());
     }
 }

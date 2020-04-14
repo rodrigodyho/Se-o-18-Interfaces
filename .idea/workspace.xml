@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c70c0e1-534c-4183-9684-44d9f800e6dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/PDF/WhatsApp Image 2020-04-12 at 18.27.57.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDF/losmesesedit-cke.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PDF/test-de-personalidad-de-las-estaciones-del-año.jpg" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/devices/ComboDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/devices/ConcretePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/devices/ConcreteScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/devices/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/devices/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/devices/Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/devices/Scanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,29 +74,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="645" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1586870485857">
+    <state x="645" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1586873060452">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state x="645" y="220" key="#com.intellij.ide.util.MemberChooser/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586870485857" />
+    <state x="645" y="220" key="#com.intellij.ide.util.MemberChooser/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586873060452" />
     <state x="570" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586869585431">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
     <state x="570" y="251" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586869585431" />
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1586871352583">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1586873498477">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586871352583" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1586871352583">
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586873498477" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1586873498477">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586871352583" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1586871352583">
+    <state width="1637" height="272" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586873498477" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1586873498477">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586871352583" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1586871352583">
+    <state width="1637" height="272" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586873498477" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1586873498477">
       <screen x="0" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586871352583" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1680.1010@0.0.1680.1010" timestamp="1586873498477" />
   </component>
 </project>
